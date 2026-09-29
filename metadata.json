@@ -1,0 +1,6 @@
+{
+  "name": "Wi-Fi Access Manager",
+  "description": "Authorized local Wi-Fi connection manager with memory-efficient large credential list indexing, batch navigation, and official Android Wi-Fi APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

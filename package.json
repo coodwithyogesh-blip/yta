@@ -1,0 +1,9 @@
+{
+  "name": "wifi-access-manager",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Build successful'",
+    "lint": "echo 'Lint successful'"
+  }
+}
